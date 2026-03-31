@@ -1,0 +1,7 @@
+Before finishing, verify these points:
+
+1. Did the change actually need new tests, or was an existing command enough?
+2. Did I reuse the repo's current validation tooling before adding anything new?
+3. Did I run the relevant automated checks for real?
+4. If I used browser automation, did I keep it narrow and stable?
+5. Am I reporting any unvalidated areas or residual risk explicitly?

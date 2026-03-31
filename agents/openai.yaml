@@ -1,0 +1,7 @@
+interface:
+  display_name: "Auto Test Guard"
+  short_description: "Add proportional tests and run real verification."
+  default_prompt: "Use $auto-test-guard to add the right level of automated validation after this code change and report any remaining risk."
+
+policy:
+  allow_implicit_invocation: true
